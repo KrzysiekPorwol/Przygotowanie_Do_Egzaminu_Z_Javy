@@ -45,3 +45,5 @@ public class Magazyn {
     // TODO: foreach po keySet()
   }
 }
+
+//a
